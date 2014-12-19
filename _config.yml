@@ -1,0 +1,12 @@
+# Site settings
+title: Telosys
+email: telosysteam@gmail.com
+description: >
+  Telosys
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://telosys.github.io" # the base hostname & protocol for your site
+twitter_username: telosys
+github_username:  telosys
+
+# Build settings
+markdown: kramdown
